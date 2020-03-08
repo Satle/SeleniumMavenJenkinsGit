@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12260" started-at="2020-03-08T11:29:32Z" finished-at="2020-03-08T11:29:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12260" started-at="2020-03-08T11:29:32Z" finished-at="2020-03-08T11:29:44Z">
+      <class name="samplePackage.ThirdMavinClass">
+        <test-method status="PASS" signature="test1()" name="test1" duration-ms="0" started-at="2020-03-08T11:29:44Z" finished-at="2020-03-08T11:29:44Z">
+        </test-method>
+      </class>
+      <class name="samplePackage.SecondMavinClass">
+        <test-method status="PASS" signature="test2()" name="test2" duration-ms="5781" started-at="2020-03-08T11:29:39Z" finished-at="2020-03-08T11:29:44Z">
+        </test-method>
+      </class>
+      <class name="samplePackage.FirstMavinClass">
+        <test-method status="PASS" signature="test1()" name="test1" duration-ms="6474" started-at="2020-03-08T11:29:32Z" finished-at="2020-03-08T11:29:39Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

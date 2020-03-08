@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-1BEOU3RG" name="samplePackage.FirstMavinClass" tests="3" failures="0" timestamp="8 Mar 2020 05:59:44 GMT" time="12.26" errors="0">
+  <testcase name="test1" time="6.474" classname="samplePackage.FirstMavinClass"/>
+  <testcase name="test2" time="5.781" classname="samplePackage.SecondMavinClass"/>
+  <testcase name="test1" time="0.0" classname="samplePackage.ThirdMavinClass"/>
+</testsuite>
